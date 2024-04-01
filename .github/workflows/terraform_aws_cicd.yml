@@ -1,4 +1,4 @@
-name: Terraform_AWS_CICD_MyResmue
+name: Terraform_AWS_CICD_MyWebSite
 on: [push, pull_request,workflow_dispatch]
 
 env:
