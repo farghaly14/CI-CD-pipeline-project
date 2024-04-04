@@ -1,6 +1,6 @@
 # Provision a WebSite on AWS Using Terraform
 
-This repository contains Terraform code to set up a basic infrastructure for hosting a resume website on **Amazon Web Services (AWS)**. The infrastructure includes an **EC2** for hosting website and an **Elastic IP** to access the website
+This repository contains Terraform code to set up a basic infrastructure for hosting a website on **Amazon Web Services (AWS)**. The infrastructure includes an **EC2** for hosting website and an **Elastic IP** to access the website
 
 ## Getting Started
 
